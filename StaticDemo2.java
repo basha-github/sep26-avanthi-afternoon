@@ -2,7 +2,7 @@ class Employee{
 	int id;
 	String name;
 	
-	static {
+	 {
 		System.out.println("from static..");
 	}
 	
